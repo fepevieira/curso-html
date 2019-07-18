@@ -13,13 +13,11 @@
         <img src="fotos/foto-perfil.jpg" alt="Fernando Pedroso Vieira" align="right">
         <h1>Fernando Pedroso Vieira</h1>
         <h2>Gerente&nbsp;de&nbsp;Produto&nbsp;(PO), Gerente&nbsp;de&nbsp;Projetos&nbsp;(PMO), Gestor&nbsp;de&nbsp;Equipe <br>
-        São Paulo, São Paulo, Brasil</h2>
+        São Paulo, SP, Brasil</h2>
             <h3>Contatos</h3>
                 <ul class="contato">
                      <li>Cidade: São Paulo - SP</li>
-                     <li>Celular: (11) 9 8483 4493</li>
-                     <li>E-mail: fepevieira@gmail.com</li>
-                     <li>LinkedIn: <a class="link" href="http://www.linkedin.com/in/fernandopvieira" target="_blank">fernandopvieira</a></li>
+</li>
                  </ul>
             <h3>Principais competências</h3>
                 <ul>
